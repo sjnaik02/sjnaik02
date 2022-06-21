@@ -9,9 +9,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like binding notebooks, and love fancy stationery
 
+---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjnaik02&show_icons=true&theme=tokyonight&hide=stars,issues" />
 </a>
+
+---------------------------  
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjnaik02&langs_count=3&theme=tokyonight" />
 </a>
